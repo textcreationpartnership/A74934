@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bloody almanack; or, Astrological predictions, and monthly observations; denoting and setting forth, I. The great changes, mutations, and revolutions, that will happen in the year of Christ, 1655. And the direfull actions, and memorable accidents that will befall some great ones in authority, who have inriched themselvs by the sweat of other mens browes. II. The particulars of the greatest catastrophe that ever happened in England, the calling to an account some of the Common-wealths servants, who are now become her masters; and the making of divers headless. III. A diary of the national affairs, the proceedings of the nobles, and a most excellent antidote to cure the malady of the Commons, and to confirm and establish our long-desired liberties. IV. The arraignment and conviction of divers time-buggering changlings, and the admirable effects that will attend the motion of our lawfull governors. V. The rectifying of the magistracy, the administring of true justice to the commonalty, and the exaltation of our long contended for liberty. VI. The violent diseases that will prove obnoxious and incident both to men, and women; and a brief computation of the royal chronicle. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74934</idno>
+            <idno type="STC">Thomason E816_1</idno>
+            <idno type="EEBO-CITATION">50796683</idno>
+            <idno type="OCLC">ocm 50796683</idno>
+            <idno type="VID">167970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167970)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E816[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bloody almanack; or, Astrological predictions, and monthly observations; denoting and setting forth, I. The great changes, mutations, and revolutions, that will happen in the year of Christ, 1655. And the direfull actions, and memorable accidents that will befall some great ones in authority, who have inriched themselvs by the sweat of other mens browes. II. The particulars of the greatest catastrophe that ever happened in England, the calling to an account some of the Common-wealths servants, who are now become her masters; and the making of divers headless. III. A diary of the national affairs, the proceedings of the nobles, and a most excellent antidote to cure the malady of the Commons, and to confirm and establish our long-desired liberties. IV. The arraignment and conviction of divers time-buggering changlings, and the admirable effects that will attend the motion of our lawfull governors. V. The rectifying of the magistracy, the administring of true justice to the commonalty, and the exaltation of our long contended for liberty. VI. The violent diseases that will prove obnoxious and incident both to men, and women; and a brief computation of the royal chronicle. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In imprint date: second "5" crossed out and replaced with ms. "4."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Predictive astrology --  Early works to 1800.</term>
+               <term>Great Britain --  Forecasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167970:1" rendition="simple:additions"/>
+            <p>The Bloody ALMANACK, OR, Aſtrological Predictions, and Monthly Obſervations;<lb/> 
+               <hi>Denoting and ſetting forth,</hi>
+               <list>
+                  <item>I. The great Changes, Mutations, and Revolutions, that will happen in the Year of Chriſt, 1655. And the Direfull Actions, and memorable Accidents that will befall ſome great Ones in Authority, who have inriched themſelvs by the ſweat of other mens browes.</item>
+                  <item>II. The particulars of the greateſt <hi>Cataſtrophe</hi> that ever happened in <hi>England,</hi> the calling to an account ſome of the Common-wealths ſervants, who are now become Her Maſters; and the making of divers Headleſs.</item>
+                  <item>III. A Diary of the National Affairs, the proceedings of the Nobles, and a moſt excellent Antidote to cure the Malady of the Commons, and to confirm and eſtabliſh our long-deſired Liberties.</item>
+                  <item>IV. The Arraignment and Conviction of divers Time-buggering Chang<g ref="char:EOLhyphen"/>lings, and the admirable Effects that will attend the motion of our lawfull Governors.</item>
+                  <item>V. The rectifying of the Magiſtracy, the adminiſtring of true Juſtice to the Commonalty, and the exaltation of our long-contended for Liberty.</item>
+                  <item>VI. The violent Diſeaſes that will prove obnoxious and incident both to Men, and Women; and a brief Computation of the Royal Chronicle.</item>
+               </list>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON: Printed for G. HORTON, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:167970:2"/>
+            <pb n="3" facs="tcp:167970:2" rendition="simple:additions"/>
+            <head>A brief Computation of ſome things very memo<g ref="char:EOLhyphen"/>rable, till this preſent Year, 1655.</head>
+            <lg>
+               <l>SInce <hi>Charles</hi> the firſt to grief and ſorrow born <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>55</label>
+               </l>
+               <l>Since true Allegeance from the Crown was torn <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>7</label>
+               </l>
+               <l>Since living <hi>Charles</hi> firſt breath'd this loathſome ayr <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>25</label>
+               </l>
+               <l>Since Reverend <hi>Laud</hi> began <hi>S<hi rend="sup">t</hi> Paul</hi>'s Repair <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>21</label>
+               </l>
+               <l>Since the late King advanc'd againſt the <hi>Scot</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>16</label>
+               </l>
+               <l>Since Peace concluded, but intended not <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>16</label>
+               </l>
+               <l>Since Wolves and Foxes firſt were idoliz'd <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>15</label>
+               </l>
+               <l>Since learned <hi>Strafford</hi>'s blood was ſacrific'd <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>14</label>
+               </l>
+               <l>Since <hi>Sects and Tumults</hi> ſet the Land on fire <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>14</label>
+               </l>
+               <l>Since the dead King was forced to Retire <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>14</label>
+               </l>
+               <l>Since <hi>Charles</hi> his <hi>Royal Standard</hi> ſtreaming ſtood <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>13</label>
+               </l>
+               <l>Since <hi>Keinton</hi> ſield deep dy'd wtth Engliſh blood <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>13</label>
+               </l>
+               <l>Since <hi>Cheapſide-Croſs</hi> (for Conſcience ſake) did fall <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>12</label>
+               </l>
+               <l>Since <hi>Moſes</hi> Tables forc'd to give the wall <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>12</label>
+               </l>
+               <l>Since firſt we felt the vertue of a Tax <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>11</label>
+               </l>
+               <l>Since glorious <hi>Laud</hi> tryumphed o're the Ax <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>11</label>
+               </l>
+               <l>Since <hi>Naesby field</hi> firſt own'd that fatal Blow <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>10</label>
+               </l>
+               <l>Since the ſtout Cavalry felt the Overthrow <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>10</label>
+               </l>
+               <l>Since penſive <hi>Charles</hi> left <hi>Oxford</hi> (in diſguiſe) <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>9</label>
+               </l>
+               <l>Since he so treacherous <hi>Scots</hi> became a prize <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>9</label>
+               </l>
+               <l>Since <hi>Henderſon</hi> receiv'd his Mortal wounds <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>9</label>
+               </l>
+               <l>Since <hi>Scotch-men</hi> ſold their Prince for <hi>Engliſh</hi> pounds <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>9</label>
+               </l>
+               <l>Since <hi>Holmby houſe</hi> reſtrain'd his further flight <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>9</label>
+               </l>
+               <l>Since <hi>Joice</hi> ſurpriz'd him in the Dead of Night <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>8</label>
+               </l>
+               <l>Since he had terms propos'd and promis'd right <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>8</label>
+               </l>
+               <l>Since fairly juggled into th'Iſle of <hi>Wight</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>8</label>
+               </l>
+               <l>Since the wiſe Commons took a purging Doſe <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>7</label>
+               </l>
+               <l>Since <hi>Charles</hi> made truly great and glorious <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>7</label>
+               </l>
+               <l>Since <hi>Charles</hi>'s Crown &amp;c. expoſed to a rate <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>7</label>
+               </l>
+               <l>Since <hi>England</hi> hight the Title of <hi>Free State</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>6</label>
+               </l>
+               <l>Since <hi>Mars</hi> 
+                  <g ref="char:V">Ʋ</g>nrouſted thoſe had twelve years rul'd <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>2</label>
+               </l>
+               <l>Since Mad men (on their Ruins)'gan to build <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>2</label>
+               </l>
+               <pb n="4" facs="tcp:167970:3"/>
+               <l> Since that illiterate Conclave's Diſſolution <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>2</label>
+               </l>
+               <l>Since this bleſt Government's Inſtitution <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>2</label>
+               </l>
+               <l>Since Time was pregnant of a Lord Protector <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>2</label>
+               </l>
+               <l>Since ſhe brought forth (a more then Trojan Hector) <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>2</label>
+               </l>
+               <l>Since Knights and Burgeſſes their free Election <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>1</label>
+               </l>
+               <l>Since winnowed and made of one complexion <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>1</label>
+               </l>
+               <l>Since they conven'd at <hi>Weſtminſter</hi> and ſate <label type="milestone">
+                     <seg type="milestoneunit">Years. </seg>1</label>
+               </l>
+               <l>Since they Enacted — 'Next ſhall tell you what</l>
+            </lg>
+         </div>
+         <div type="list_of_feasts_and_seasonal_dates">
+            <list>
+               <head>A Table of the fixed Fe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts, and other Dayes of Note for ever.</head>
+               <item>January <hi>1.</hi> New years day,</item>
+               <item>January <hi>6</hi> Twelfth day,</item>
+               <item>February <hi>2</hi> Purification Mary,</item>
+               <item>February <hi>24</hi> Mathias,</item>
+               <item>March <hi>1 S<hi rend="sup">t</hi>
+                  </hi> David,</item>
+               <item>March <hi>25</hi> Lady Day,</item>
+               <item>April <hi>25 S<hi rend="sup">t</hi>
+                  </hi> Mark,</item>
+               <item>May <hi>1</hi> Philip and Jacob,</item>
+               <item>June <hi>12 S<hi rend="sup">t</hi>
+                  </hi> Barnaby,</item>
+               <item>June <hi>24 S<hi rend="sup">t</hi>
+                  </hi> John Baptiſt,</item>
+               <item>July <hi>15 S<hi rend="sup">t</hi>
+                  </hi> Swithen,</item>
+               <item>July <hi>19</hi> Dog. dayes begin,</item>
+               <item>July <hi>25 S<hi rend="sup">t</hi>
+                  </hi> James,</item>
+               <item>Auguſt <hi>1</hi> Lammas day,</item>
+               <item>Auguſt <hi>10 S<hi rend="sup">t</hi>
+                  </hi> Lawrence,</item>
+               <item>Auguſt <hi>23</hi> Dog dayes end,</item>
+               <item>Auguſt <hi>24 S<hi rend="sup">t</hi> Bartholomew,</hi>
+               </item>
+               <item>September <hi>21 S<hi rend="sup">t</hi> Mathew,</hi>
+               </item>
+               <item>September <hi>29 S<hi rend="sup">t</hi> Michael,</hi>
+               </item>
+               <item>October <hi>18. S<hi rend="sup">t</hi> Luke,</hi>
+               </item>
+               <item>October <hi>28 Simon and Jude</hi>
+               </item>
+               <item>November <hi>1 All Saints</hi>
+               </item>
+               <item>November <hi>5 Powder Treaſon</hi>
+               </item>
+               <item>November <hi>30 S<hi rend="sup">t</hi> Andrews,</hi>
+               </item>
+               <item>December <hi>21 S<hi rend="sup">t</hi> Thomas,</hi>
+               </item>
+               <item>December <hi>25 Chriſtmas,</hi>
+               </item>
+               <item>December <hi>26 S<hi rend="sup">t</hi> Stephen</hi>
+               </item>
+               <item>December <hi>27 John Evangeliſt,</hi>
+               </item>
+               <item>December <hi>28 Innocents.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_university_terms">
+            <list>
+               <item>Hillary Term begins January 23, ends February 12.</item>
+               <item>Eaſter Term begins May 2. ends May 28.</item>
+               <item>Trinity Term begins June 15, ends July 4.</item>
+               <item>Michaelmas Term begins October 23, ends Novem. 28.</item>
+            </list>
+            <epigraph>
+               <q>
+                  <l>Go to, brave Hero's! And abridge the Law,</l>
+                  <l>[Teach (in Epitome) to hang and draw:]</l>
+                  <l>Make <hi>Magna Charta</hi> ſpeak us <hi>LILBURN</hi>-free,</l>
+                  <l>That Treaſon, which is writ without a <hi>T.</hi>
+                  </l>
+                  <l>Correct old <hi>Littleton,</hi> and print him New:</l>
+                  <l>The <hi>Sword's</hi> one Tenure, more, He never knew.</l>
+               </q>
+            </epigraph>
+         </div>
+         <div type="astrological_almanac">
+            <pb n="5" facs="tcp:167970:3"/>
+            <head>Monethly Predictions.</head>
+            <div n="JAnuary" type="month">
+               <head>JANUARY.</head>
+               <p>A Mad world my Maſters, when Time-Changlings are troubled with ſuch a Looſneſs, that whatever they take in, runs through them preſently: yet were it not for the general <hi>Fate of the Time</hi> yet impending, there was hopes of much good to be acted by Authority, and the publike-weal: A pacification is like to be between the Sword and the Gown; and Virtue now ſhall wear the Crown: ſo that there is great hopes we ſhall arrive in ſome good meaſure to our long deſired Liberty. Cold and dry weather for the greateſt part of the firſt week. Some ſnow or rain about the 9. day. Cold winds after the full moon, but the weather fair and ſeaſonable. Full moon the 12 day at 5 in the morn. New moon the 27 day, at half an hour paſt 12.</p>
+            </div>
+            <div n="February" type="month">
+               <head>FEBRUARY.</head>
+               <p>GReat Ones cannot agree, by reaſon of the Aphelion of Mars; and bad ones are taken away, but worſe put into their room: Here's Virtue puniſhed, &amp; Vice let go; beware the queſtioning of a great man I ſure I am that Death ſeizes of a mighty woman: ſome Paraſi e flatters a great man in Authority, &amp; makes him believe wonders; but being diſcovered, it will appear evident, that he hath been Author of more miſchief then a hundred thouſand treacherous Scots, put all together. Froſt begins the moneth, and ſo continues for the moſt part of the firſt ten dayes. After which, look for ſome rain, ſl et, ſnow, or dark and cloudy weather, with many nipping winds, eſpecially about the 13, 15, 20, 23, and 26 dayes. Full moon the 10 day, at 4 a clock in the afternoon. New moon the 26. day at 5 a clock in the afternoon.</p>
+            </div>
+            <div n="March" type="month">
+               <head>MARCH.</head>
+               <p>A Moſt excellent Harmony attends the actions of the Engliſh; and exceed<g ref="char:EOLhyphen"/>ingly will they inlarge their Dominions; the French tremble, and are like to ſuffer extreamly; the Spaniards quake, and Royal Phoebus cuts the Aequa<g ref="char:EOLhyphen"/>tor line in the Weſt-Indies, which preſageth notorious actions, and direful things, peſt'ring the Commmons, even as many hath done their Kings. Cold mornings, and ſomwhat windy the 1, 6, 7, dayes; and ſome ſharp and ſudden ſhowr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> towards the latter end. Full moon the 12 day, at 4 in the morning New moon the 29 day, half an hour paſt 7 in the afternoon.</p>
+            </div>
+            <div n="May" type="month">
+               <pb n="6" facs="tcp:167970:4"/>
+               <head>MAY.</head>
+               <p>THis Moneth produceth very direful Actions, old ſores will break forth un<g ref="char:EOLhyphen"/>leſs throughly ſearched by a long ſword; and the ſouldiery will maintain their Superiors as long as they can, yet at laſt the Magiſtracy will be handled by <hi>Jupiter;</hi> and there's great hopes that the Nobles will advance the good of the Commons; 'tis high time, too long has their freedoms been captivated; and that ere long their priviledges will receive an abſolute exaltation in its own Center and Hemiſphere. Fair and pleaſant weather untill the 9. day. Some wind and rain about the 10 day, but principally about the 15, 18, 19, and 20 dayes. No great alteration of the ayr, till about the N. Moon; but from thence be ſure of winds chiefly about the three laſt dayes. Full Moon the 10. day. New M. 25.</p>
+            </div>
+            <div n="June" type="month">
+               <head>JUNE.</head>
+               <p>AT the beginning of the month we might expect ſome gracious Act or Or<g ref="char:EOLhyphen"/>dinance to befall the people; but the excellency thereof will ſoon receive an Over-turn for ſome ſpace of time; yet at length its glorious ſplendor will ſhine forth in ſtreams throughout all the dark corners of the Nation, and ſpeak brave Engliſh to the long oppreſſed Commoner: At which time; young <hi>Charles</hi> is much talked of, and very good and pleaſing intelligence delights our Eares from Scotland. But the Merchants are like to ſuffer much at ſea, not onely by Pyracie, but alſo by ſhipwrack. London beware, violent Feavers, Dropſies, Bell<g ref="char:EOLhyphen"/>aches, threaten thy inhabitants: O caſt off thy rebellious diſputes, and maintain no longer thy Worm-eaten Opinions: Condemn not the Holy Church, becauſ of the ravening Wolves, and ſubtil Foxes crept into (and now ſo miſerably de<g ref="char:EOLhyphen"/>ſpoiling) her; and decry not our reverend Clergy, becauſ ſome Time-bugger<g ref="char:EOLhyphen"/>ing Changlings have diſhonoured the Function, ſeduced the Auditory, and pre<g ref="char:EOLhyphen"/>fer'd their worldly intereſts and carnal ends of pride, ambition, hypocrifie, and deſire of preheminence above their maſters: for which incredulity, let the bonds of Loyalty be their Judges, and the Piety of a whole Covent of learned men, their Preſident. I dare proceed no further for fear of a ſurfeit; a word to the in<g ref="char:EOLhyphen"/>genuous is ſufficient; I having already participated of the influences of contra<g ref="char:EOLhyphen"/>ry Conſtellation, without any impeding, &amp;c. This month begins with fair and pleaſant weather; but concludes with high winds, thunder, and lightning. Full moon the 8 day, 9 at night. New moon the 23 day, 6 at night.</p>
+            </div>
+            <div n="July" type="month">
+               <head>JULY.</head>
+               <p>A Notable Scene attends the National Affairs, and great acts are brought up<g ref="char:EOLhyphen"/>on the Stage: withdraw but the Curtain, and you may diſcern the motion of the Puppits, even unto the Netherlands, where the Belgick Lyon begins to roar, and once more to hang forth the skarlet ſtreamers upon the Brittiſh Oce<g ref="char:EOLhyphen"/>an. Very good, I ſhall then unravel the myſtery, and tell you in plain Engliſh, that the Dutch begin new Contingencies, and their Whimfie pated Noddles,
+<pb n="7" facs="tcp:167970:4"/>are altogether elevated with ſtrange Chimera's; wonderful ſpeculation! Rare invention! the Deſign being founded upon the Element of water, although the Conſtitution hangs moſt magically in the ayr, like the Tombe of <hi>Mahomet,</hi> by the vertue and phantfie of ſome magnetical Boar, or Coxcomb. Well! admit this; nevertheleſs, our Commonwealth ſtands in a gallant poſture; and is rea<g ref="char:EOLhyphen"/>dy to receive the enemy, beyond the credit of ſucceeding Ages.
+<q>
+                     <l>Great Cauſes preſuppoſe Events as great,</l>
+                     <l>Here ſounds a Warlike March, There, a Retreat;</l>
+                     <l>The Sword is drawn: I fear a Plague the next;</l>
+                     <l>Much more ſome ſermons on the Coblers Text.</l>
+                  </q>
+               </p>
+               <p>The moneth begins fair and comfortable, but concludes with gloomy wea<g ref="char:EOLhyphen"/>ther, and ſome ſhowers, yet very hot and ſultry, and thunder moſt part of the moneth, Full moon the 8 day, half an hour after noon. New moon the 23, half an hour after one in the morning.</p>
+            </div>
+            <div n="August" type="month">
+               <head>AUGUST.</head>
+               <p>SOme in Authority now think to vaump and trim up an old faſhion of Gu<g ref="char:EOLhyphen"/>bernation; and promiſe much, but perform little, <hi>that's no news;</hi> The people ſeem to be merry, but they have ſmall cauſe; for when they think Authority will alter ſomething that may prove beneficial, loe it is but an eſtabliſhing of what they count obnoxious; inſomuch, that the Commonalty are unſatisfied, and many Paper-kites takes their flights up and down the countries, which in<g ref="char:EOLhyphen"/>cites the people to a unanimous petitioning for the abatement of Taxes, I wiſh it unfeignedly; O what a ſweet harmony would Engliſh-men ſing, if every man might enjoy his own. The moneth begins and continues fair untill the change of the moon, onely ſome winds about the 11, 13, 14, and 18 dayes. And from thence, to the end thereof, be aſſured of Rain, and notable cooling Winds. Full moon the 7 day, at 4 in the morn. New moon the 21. half an hour after 9 in the morning.</p>
+            </div>
+            <div n="September" type="month">
+               <head>SEPTEMBER.</head>
+               <p>O Heavens! is not thy Vicegeaent the equal Scale? where is th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the perfect adminiſtration of true Juſtice? when ſhall we partake and center on thoſe Golden Reins of Government ſo long contended for? What! muſt the weakeſt alwayes go to the wall, and might overcome right? No, no, there is a day of re<g ref="char:EOLhyphen"/>demption coming, wherein ſome great ones will be forced to rectifie their evill practiſes, and conſtrained to give an account of their ſtewardſhips; and reaſon good, they may in time be fatted for the ſlaughter. Certainly, the raſh actions of ſome in Authority, wil produce (in proceſs of time) the greateſt <hi>Cataſtrophe</hi> that ever hapned in England: We are threatned this month, and ſtrange news comes from France; beware an invaſion for the Indies. Some trifling windes &amp; ſhowrs the 3 firſt dayes. Some thunder and lightning between the 9 and 15 dayes. Fair
+<pb n="8" facs="tcp:167970:5"/>weather for the moſt part from, from the 19 day to the end of the moneth, Full Moon the 5 day, half an hour paſt 6 at night. New Moon the 19 day, half an hour paſt 7 at night.</p>
+            </div>
+            <div n="October" type="month">
+               <head>OCTOBER.</head>
+               <p>THe Sword rageth, and <hi>Mars</hi> thunders up and down, Not quiet with, nor yet without a Crown. The Commonwealth begins to ſwell, all things at Weſtminſter goes not well; the matter <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ng promiſed, is not to the people yet performed; for which they now begin <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o grin, and threaten to bite, if they be not muzled: ſo that this great thing no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in queſtion (<hi>viz.</hi> Liberty and Free<g ref="char:EOLhyphen"/>dom) finds a good acceptaion, after a grand deliberation. The earth is barren, and a great Mortality afflicts the Land. Alas! when ſiccity prevails, acute Fea<g ref="char:EOLhyphen"/>vers are generated. Diſeaſes alſo are excited that lead to <hi>Conſumptions, Inflamations of the Eyes, Griefs of the Head and Joynts, Pains of the Entrals, with ſtoppage of the <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>rine.</hi> Moreover, the winter ſhall abound with H<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d-aches, Coughs, Hoarſnes, and Rh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ums (which according to <hi>Gallen</hi>) be ſymptomes of a full head. The Spring with Fluxes, (which will kill many) and death of aged men. The Summer with abortive births, and diſſenteries, amonſt ſuch as be of a flegmacike complexion. The plague of the guts will have great acceſs, being aggravated with extream windineſs, and corruption of blood: womens travels will not be ſo ſore as in many years and times paſt it ha, h been; but many are threatned with ſore lings ring ſickneſs after deliverance, occaſion'd by the corruption of blood. From the firſt to the laſt of this month the weather will be for the greateſt part very cold and windy; and ſome ſnow about the middle, Full Moon the 5 day, half an ho: paſt 9 at night. New Moon the 19 day, at 11 at night.</p>
+            </div>
+            <div n="November" type="month">
+               <head>NOVEMBER.</head>
+               <p>SOme great ſcuffling this month amongſt Superiors, and mighty thwartings with thoſe that ſit at the ſtern; yet they concur in the publike cauſe, againſt a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orrein enemy, which are may; yet ſhall the Engliſh become Victors, both in the Weſt Indies, and other places. Cold weather, with ſome winds, and rain the 3 and 5 dayes. Great winds about the 10, 12, and 13 dayes. Snow-like, or Rain the 17, 18, 19, and 20 dayes. The reſt of the moneth will be fairer, but very cold and chill. Full moon the 3<hi rend="sup">d</hi> day, half an hour paſt 9 in the morn. New moon the 17 day, at 5 at night.</p>
+            </div>
+            <div n="December" type="month">
+               <head>DECEMBER.</head>
+               <p>MAny great ones begin to tremble, and divers are queſtion'd and brought upon the ſtage; ſome are in danger of being made headleſs; I wiſh all were ſo ſerv'd that deſerves it. And ſeeing they can agree no better, but inſiſt upon Janglings, let them have a care they do not hang like Bells, to ring a fatal Peal in this our latter</p>
+            </div>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
